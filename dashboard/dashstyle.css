@@ -27,7 +27,27 @@ body{
     width: 100%;
     font-size: 32px;
     font-weight: bold;
-    padding: 0 25px;
+    padding: 0 10px;
     color: white; 
     text-transform: uppercase;
 }
+
+.top_navbar ul a{
+    text-decoration: none;
+    width: 100%;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 0px 25px 0 0;
+    color: white; 
+    text-transform:capitalize;
+}
+.top_navbar .logoimg {
+    padding: 0 25px 0;
+    height: 80%;
+
+}
+.logimg{
+    padding:  0 5px 0;
+    width: 5vh;
+}
+
