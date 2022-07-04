@@ -14,7 +14,7 @@ body{
 .busimg{
     position: fixed;
 	display: flex;
-    width: 10%;
+    width: 40%;
     left: 40px;
     top: 100px;
     z-index: -1;
@@ -54,7 +54,7 @@ label.logotxt{
 	align-items: center;
 }
 
-/* .login-content{
+.login-content{
 	display: flex;
 	justify-content: flex-start;
 	align-items: center;
@@ -251,4 +251,4 @@ a:hover{
 	.login-content{
 		justify-content: center;
 	}
-} */
+}
